@@ -1,5 +1,5 @@
 {
-  "name": "newfire-react-ui-core",
+  "name": "react-ui-core",
   "version": "1.0.0",
   "description": "A sample library for React Components.",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
-  "author": "Dave Boster",
+  "author": "Tom Filbey",
   "license": "MIT",
   "devDependencies": {
     "@storybook/addon-essentials": "^7.6.4",
